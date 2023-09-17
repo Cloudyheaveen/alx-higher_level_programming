@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" A script that lists all State objects from the database hbtn_0e_6_usa """:
+""" A script that lists all State objects from the database hbtn_0e_6_usa """
 
 from sys import argv
 from model_state import Base, State
